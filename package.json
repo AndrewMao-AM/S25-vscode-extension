@@ -13,7 +13,7 @@
     "onStartupFinished",
     "onDidChangeActiveTextEditor"
   ],
-  "main": "./extension.js",
+  "main": "./starter_extension.js",
   "contributes": {
     "viewsContainers": {
       "activitybar": [
